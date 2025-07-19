@@ -50,11 +50,11 @@ const ContactForm = () => {
         </div>
 
         <div>
-          <h3 style={{ marginBottom: "12px", fontWeight: "500", color: "#333", fontSize: "1.25rem" , fontWeight: "bold"}}>
+          <h3 style={{ marginBottom: "12px", color: "#333", fontSize: "1.25rem" , fontWeight: "bold"}}>
             Our Mission
           </h3>
           <p style={{ color: "#666", fontSize: "1.1rem" }}>
-            Our mission is to craft impactful stories that reflect the experiences of immigrants and their descendants in America, fostering a deep sense of belonging. We champion loving, supportive family dynamics, while promoting constructive growth. We strive to inspire imagination, curiosity, and lifelong learning, celebrating cultural fusion and the creation of unique identities.
+            Our mission is to craft impactful stories that reflect the experiences of immigrants and their descendants in America, fostering a deep sense of belonging. We champion loving, supportive family dynamics, while promoting constructive growth. We strive to inspire imagination, curiosity, and lifelong learning, celebrating cultural fusion and the creation of unique cultural identities.
             </p>
         </div>
       </div>
