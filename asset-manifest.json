@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.e5caf04a.css",
-    "main.js": "/static/js/main.221d04f1.js",
-    "static/js/453.3f7760dd.chunk.js": "/static/js/453.3f7760dd.chunk.js",
-    "static/media/grocery-front.png": "/static/media/grocery-front.9eedcf876e74a75d8c9e.png",
-    "static/media/books.jpg": "/static/media/books.ff4a927273b1bcd557b2.jpg",
-    "static/media/grocery-inner.png": "/static/media/grocery-inner.d9ace684ba774c1e5572.png",
-    "static/media/safari-front.png": "/static/media/safari-front.53e0ab8d8eea754adc52.png",
-    "static/media/safari-inner.png": "/static/media/safari-inner.b22f0f45bf43483d5a9a.png",
-    "static/media/grocery-back.png": "/static/media/grocery-back.ba9e85102a45f2f2408f.png",
-    "static/media/logo.PNG": "/static/media/logo.6487bdbb9f0d451cffbf.PNG",
-    "static/media/safari-back.png": "/static/media/safari-back.9371cee9305b33f8e9d9.png",
-    "static/media/jenny-lin-no-background.png": "/static/media/jenny-lin-no-background.915814defcf413d3b67c.png",
-    "index.html": "/index.html",
-    "main.e5caf04a.css.map": "/static/css/main.e5caf04a.css.map",
-    "main.221d04f1.js.map": "/static/js/main.221d04f1.js.map",
-    "453.3f7760dd.chunk.js.map": "/static/js/453.3f7760dd.chunk.js.map"
+    "main.css": "./static/css/main.e5caf04a.css",
+    "main.js": "./static/js/main.ea976923.js",
+    "static/js/453.3f7760dd.chunk.js": "./static/js/453.3f7760dd.chunk.js",
+    "static/media/grocery-front.png": "./static/media/grocery-front.9eedcf876e74a75d8c9e.png",
+    "static/media/books.jpg": "./static/media/books.ff4a927273b1bcd557b2.jpg",
+    "static/media/grocery-inner.png": "./static/media/grocery-inner.d9ace684ba774c1e5572.png",
+    "static/media/safari-front.png": "./static/media/safari-front.53e0ab8d8eea754adc52.png",
+    "static/media/safari-inner.png": "./static/media/safari-inner.b22f0f45bf43483d5a9a.png",
+    "static/media/grocery-back.png": "./static/media/grocery-back.ba9e85102a45f2f2408f.png",
+    "static/media/logo.PNG": "./static/media/logo.6487bdbb9f0d451cffbf.PNG",
+    "static/media/safari-back.png": "./static/media/safari-back.9371cee9305b33f8e9d9.png",
+    "static/media/jenny-lin-no-background.png": "./static/media/jenny-lin-no-background.915814defcf413d3b67c.png",
+    "index.html": "./index.html",
+    "main.e5caf04a.css.map": "./static/css/main.e5caf04a.css.map",
+    "main.ea976923.js.map": "./static/js/main.ea976923.js.map",
+    "453.3f7760dd.chunk.js.map": "./static/js/453.3f7760dd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5caf04a.css",
-    "static/js/main.221d04f1.js"
+    "static/js/main.ea976923.js"
   ]
 }
