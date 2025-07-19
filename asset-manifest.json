@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.e5caf04a.css",
-    "main.js": "./static/js/main.904e0f0a.js",
+    "main.js": "./static/js/main.8bbd8ba5.js",
     "static/js/453.3f7760dd.chunk.js": "./static/js/453.3f7760dd.chunk.js",
     "static/media/grocery-front.png": "./static/media/grocery-front.9eedcf876e74a75d8c9e.png",
     "static/media/books.jpg": "./static/media/books.ff4a927273b1bcd557b2.jpg",
@@ -14,11 +14,11 @@
     "static/media/jenny-lin-no-background.png": "./static/media/jenny-lin-no-background.915814defcf413d3b67c.png",
     "index.html": "./index.html",
     "main.e5caf04a.css.map": "./static/css/main.e5caf04a.css.map",
-    "main.904e0f0a.js.map": "./static/js/main.904e0f0a.js.map",
+    "main.8bbd8ba5.js.map": "./static/js/main.8bbd8ba5.js.map",
     "453.3f7760dd.chunk.js.map": "./static/js/453.3f7760dd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5caf04a.css",
-    "static/js/main.904e0f0a.js"
+    "static/js/main.8bbd8ba5.js"
   ]
 }
