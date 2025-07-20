@@ -63,7 +63,7 @@ const Hero = () => {
           transition: 'background 0.2s',
           border: 'none',
           cursor: 'pointer',
-          fontFamily: 'Verdana, Geneva, sans-serif', // <-- add this line
+          fontFamily: 'Delius, sans-serif', // <-- add this line
           fontSize: "1rem",
         }}
       >
